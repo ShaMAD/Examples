@@ -1,0 +1,15 @@
+O:\Работа\GB\Examples\Example 1\bin\Debug\net6.0\Example 1.exe
+O:\Работа\GB\Examples\Example 1\bin\Debug\net6.0\Example 1.deps.json
+O:\Работа\GB\Examples\Example 1\bin\Debug\net6.0\Example 1.runtimeconfig.json
+O:\Работа\GB\Examples\Example 1\bin\Debug\net6.0\Example 1.dll
+O:\Работа\GB\Examples\Example 1\bin\Debug\net6.0\Example 1.pdb
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\Example 1.csproj.AssemblyReference.cache
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\Example 1.GeneratedMSBuildEditorConfig.editorconfig
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\Example 1.AssemblyInfoInputs.cache
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\Example 1.AssemblyInfo.cs
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\Example 1.csproj.CoreCompileInputs.cache
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\Example 1.dll
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\refint\Example 1.dll
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\Example 1.pdb
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\Example 1.genruntimeconfig.cache
+O:\Работа\GB\Examples\Example 1\obj\Debug\net6.0\ref\Example 1.dll
